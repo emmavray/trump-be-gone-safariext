@@ -5,6 +5,8 @@
 
 **You need to know what's happening. You don't need to see his face.**
 
+<!--- haha but seriously check it out -->
+
 Trump-Be-Gone is a simple Safari Content Blocker extension which blocks all media from loading if the URL contains the keyword "trump".
 
 It's not perfect but it certainly will reduce the number of times you have to see him.
