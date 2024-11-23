@@ -1,0 +1,11 @@
+[
+    {
+        "trigger": {
+            "url-filter": ".*trump.*",
+            "resource-type": ["image", "media", "raw", "script"]
+        },
+        "action": {
+            "type": "block"
+        }
+    }
+]
